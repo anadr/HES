@@ -1,5 +1,7 @@
 # Host Enumeration Scripts
-This is a project containing all Host Enumeration Scripts (HES) I found helpful during my OSCP studies.
+Lots of wonderful and extremely helpful scripts/projects/repo's exist on GitHub for host enumeration. This repo combines all Host Enumeration Scripts (HES) I found helpful during my OSCP studies in one location.
+
+Some of them are original versions, while some have been updated.
 
 ## Linux
 * linux/LinEnum.sh - See original page for usage information: https://github.com/rebootuser/LinEnum.
